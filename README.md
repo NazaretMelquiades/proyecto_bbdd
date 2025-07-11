@@ -1,6 +1,6 @@
-# proyecto_bbdd
+# PROYECTO GRUPAL BASE DE DATOS
 Este proyecto consiste en la creación y gestión de una base de datos SQL, donde se recojan los datos de los Campus de TheBridge, con sus verticales, profesores, alumnados, proyectos, etc.
-Los objetivos principales son la realización de un esquema ER, un modelo lógico de base de datos, introducir las queries de creación de tablas e inserción de datos y queries de consulta. 
+Los objetivos principales son la realización de un esquema ER, un modelo lógico de base de datos, la normalización de los datos e introdución de queries de creación de tablas e inserción de datos y queries de consulta. 
 
 ## Tecnologías usadas
 - SQL (PostgreSQL)
@@ -20,14 +20,14 @@ Los objetivos principales son la realización de un esquema ER, un modelo lógic
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1. Clonar repositorio de GitHub
+1.Clonar repositorio de GitHub
 
-git clone [https://github.com/NazaretMelquiades/proyecto_bbdd.git]
+git clone https://github.com/NazaretMelquiades/proyecto_bbdd.git
 
 ### 🌐 Proyecto desplegado
 Puedes ver el proyecto online en:
 
-[https://dashboard.render.com/d/dpg-d1mhod15pdvs73d2id40-a/info]
+https://dashboard.render.com/d/dpg-d1mhod15pdvs73d2id40-a/info
 
 ## 📚 Lecciones aprendidas
 - Planificar de forma eficiente las tareas
