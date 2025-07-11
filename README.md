@@ -15,8 +15,8 @@ Los objetivos principales son la realización de un esquema ER, un modelo lógic
 - Creación de una base de datos SQL en render
 
 ## 📸 Capturas de pantalla
-![Diagrama ER](assets/Diagrama%20ER.png)
-![Modelo lógico BBDD](assets/modelo_logico_db.png)
+![Diagrama ER](assets/Copia%20de%20Diagrama%20ER.drawio.png)
+![Modelo lógico BBDD](assets/modelo_logico_copia.png)
 
 ## 🚀 Cómo ejecutar el proyecto
 
@@ -38,7 +38,9 @@ https://dashboard.render.com/d/dpg-d1mhod15pdvs73d2id40-a/info
 - Creación base de datos SQL
 
 ## 🔧 Funcionalidades futuras
-- 
+- Realización de queries de consulta
+- Inserción de datos a través de queries
+
 ## 📂 Estructura del proyecto
 README.md - documentación
 assets/diagrama ER, modelo lógico
